@@ -2,8 +2,8 @@
 header("Content-Type: application/json");
 
 // === CONFIG ===
-$googleApiKey = "env.zocia.preciousadedokun.com.ng/gapi";
-$searchEngineId = "env.zocia.preciousadedokun.com.ng/csx";
+$googleApiKey = "env.chat.preciousadedokun.com.ng/gapi";
+$searchEngineId = "env.chat.preciousadedokun.com.ng/csx";
 
 // === UTILITIES ===
 
